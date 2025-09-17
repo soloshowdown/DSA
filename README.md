@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soloshowdown/DSA/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soloshowdown/DSA/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

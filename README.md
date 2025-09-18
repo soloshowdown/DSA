@@ -18,6 +18,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soloshowdown/DSA/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

@@ -1,28 +1,39 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        // Create a frequency map to store the count of each element
-        unordered_map<int, int> elementCountMap;
-        
-        // Iterate through the input array to count element occurrences
-        for(int i = 0; i < nums.size(); i++) {
-            elementCountMap[nums[i]]++;
-        }
-        
-        vector<int> majorityElements;
-        int threshold = nums.size() / 3;
-        
-        // Iterate through the frequency map to identify majority elements
-        for(auto elementCountPair : elementCountMap) {
-            int element = elementCountPair.first;
-            int count = elementCountPair.second;
-            
-            // Check if the element count is greater than the threshold
-            if(count > threshold) {
-                majorityElements.push_back(element);
+        if (nums.empty()) return {};
+        int cnt1 = 0, cnt2 = 0;
+        int el1 = INT_MIN, el2 = INT_MIN;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (cnt1 == 0 && el2 != nums[i]) {
+                cnt1 = 1;
+                el1 = nums[i];
+            }
+            else if (cnt2 == 0 && el1 != nums[i]) {
+                cnt2 = 1;
+                el2 = nums[i];
+            }
+            else if (nums[i] == el1) cnt1++;
+            else if (nums[i] == el2) cnt2++;
+            else {
+                cnt1--;
+                cnt2--;
             }
         }
-        
-        return majorityElements; 
+
+        cnt1 = 0; cnt2 = 0;
+        for (int num : nums) {
+            if (num == el1) cnt1++;
+            if (num == el2) cnt2++;
+        }
+
+        vector<int> ls;
+        int mini = nums.size() / 3;
+        if (cnt1 > mini) ls.push_back(el1);               // use > (strict)
+        if (cnt2 > mini && el2 != el1) ls.push_back(el2); // avoid duplicate
+
+        sort(ls.begin(), ls.end());
+        return ls;
     }
 };

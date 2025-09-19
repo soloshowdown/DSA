@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/soloshowdown/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/soloshowdown/DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soloshowdown/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
 ## Greedy
 |  |

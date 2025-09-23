@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+| [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+| [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soloshowdown/DSA/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->

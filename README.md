@@ -22,6 +22,7 @@
 | [0018-4sum](https://github.com/soloshowdown/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0015-3sum](https://github.com/soloshowdown/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/soloshowdown/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -60,6 +62,7 @@
 | [0018-4sum](https://github.com/soloshowdown/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |

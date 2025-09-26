@@ -25,6 +25,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soloshowdown/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## String
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -50,10 +52,12 @@
 | [0015-3sum](https://github.com/soloshowdown/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/soloshowdown/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -73,4 +77,8 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

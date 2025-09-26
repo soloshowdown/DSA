@@ -26,6 +26,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soloshowdown/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soloshowdown/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soloshowdown/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |

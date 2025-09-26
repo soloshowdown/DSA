@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soloshowdown/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## String
@@ -69,6 +71,7 @@
 | [0027-remove-element](https://github.com/soloshowdown/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soloshowdown/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |

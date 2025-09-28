@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/soloshowdown/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## String
 |  |
@@ -57,6 +59,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +104,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

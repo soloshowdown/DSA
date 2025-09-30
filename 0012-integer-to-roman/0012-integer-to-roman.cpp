@@ -1,20 +1,16 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        // Roman numeral symbols and their integer values
-        vector<int> values = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
-        vector<string> symbols = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
-
-        string result = "";
-
-        for(int i = 0; i < values.size(); i++) {
-            // While the current value can fit into num
-            while(num >= values[i]) {
-                num -= values[i];          // Reduce num
-                result += symbols[i];      // Add Roman symbol
+        string Roman = "";
+        // Creating vector of pairs to store the Roman numeral values and their corresponding symbols
+        vector<pair<int, string>> storeIntRoman = {{1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"}, {100, "C"}, {90, "XC"}, {50, "L"}, {40, "XL"}, {10, "X"}, {9, "IX"}, {5, "V"}, {4, "IV"}, {1, "I"}};
+        // Iterating through the vector and repeatedly adds the corresponding symbols to the result string while subtracting the corresponding value from the input integer until the input integer becomes zero.
+        for (int i = 0; i < storeIntRoman.size(); i++) {
+            while (num >= storeIntRoman[i].first) {
+                Roman += storeIntRoman[i].second;
+                num -= storeIntRoman[i].first;
             }
         }
-
-        return result;
+        return Roman;
     }
 };

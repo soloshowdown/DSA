@@ -1,21 +1,24 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows == 1) return s; // Edge case: no zigzag possible
-        
-        vector<string> rows(min(numRows, (int)s.size())); 
-        int curRow = 0;
-        bool goingDown = false;
-        
-        for(char c : s) {
-            rows[curRow] += c;
-            // Direction change
-            if(curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
-            curRow += goingDown ? 1 : -1;
+        if (numRows <= 1 || numRows >= s.size()) return s;
+
+        vector<string> rows(numRows);
+        int cur = 0;
+        int dir = 1;     // 1 = for down, -1 = for up
+
+        for (int i = 0; i < s.size(); i++) {
+            rows[cur] += s[i];
+            if (cur == 0) dir = 1;
+            else if (cur == numRows - 1) dir = -1;
+            cur += dir;
         }
-        
-        string result = "";
-        for(string row : rows) result += row;
-        return result;
+
+        string ans;
+        for (int i = 0; i < numRows; i++) {
+            ans += rows[i];
+        }
+
+        return ans;
     }
 };

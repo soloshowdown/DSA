@@ -39,6 +39,7 @@
 | [0135-candy](https://github.com/soloshowdown/DSA/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/soloshowdown/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/soloshowdown/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |

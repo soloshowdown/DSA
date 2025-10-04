@@ -56,6 +56,7 @@
 | [0058-length-of-last-word](https://github.com/soloshowdown/DSA/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/soloshowdown/DSA/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soloshowdown/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soloshowdown/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@
 | [0088-merge-sorted-array](https://github.com/soloshowdown/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |

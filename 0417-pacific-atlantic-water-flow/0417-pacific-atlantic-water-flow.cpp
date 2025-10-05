@@ -1,42 +1,86 @@
 class Solution {
 public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        int m = heights.size(), n = heights[0].size();
+        int col_len = heights.size();          // satır sayısı (m)
+        int row_len = heights[0].size();       // sütun sayısı (n)
+        vector<pair<int,int>> all_directions{{0,1},{0,-1},{1,0},{-1,0}};
+        queue<tuple<int,int,int>> next_cell;   // (r, c, ocean) 1=Pacific, 2=Atlantic
+        vector<vector<int>> visited(col_len, vector<int>(row_len, 0)); // bitmask: 1|2
 
-        vector<vector<int>> pacific(m, vector<int>(n, 0));  // Cells reachable by Pacific
-        vector<vector<int>> atlantic(m, vector<int>(n, 0)); // Cells reachable by Atlantic
-
-        // DFS function
-        function<void(int, int, vector<vector<int>> &)> dfs = [&](int i, int j, vector<vector<int>>& ocean) {
-            ocean[i][j] = 1;
-            int dirs[4][2] = {{1,0}, {-1,0}, {0,1}, {0,-1}}; // 4 directions
-
-            for (auto& d : dirs) {
-                int x = i + d[0], y = j + d[1];
-                // Conditions: inside matrix, not visited, and next cell >= current (reverse flow)
-                if (x >= 0 && x < m && y >= 0 && y < n && !ocean[x][y] && heights[x][y] >= heights[i][j]) {
-                    dfs(x, y, ocean);
-                }
+        auto enqueue_if_new = [&](int r, int c, int ocean){
+            if ((visited[r][c] & ocean) == 0) {   // bu okyanat için henüz işaretlenmemişse
+                visited[r][c] |= ocean;
+                next_cell.emplace(r, c, ocean);
             }
         };
 
-        // Pacific → top & left borders
-        for (int i = 0; i < m; i++) dfs(i, 0, pacific); // left column
-        for (int j = 0; j < n; j++) dfs(0, j, pacific); // top row
+        // Top (Pacific)
+        for (int c = 0; c < row_len; ++c) enqueue_if_new(0, c, 1);
+        // Left (Pacific)
+        for (int r = 0; r < col_len; ++r) enqueue_if_new(r, 0, 1);
 
-        // Atlantic → bottom & right borders
-        for (int i = 0; i < m; i++) dfs(i, n-1, atlantic); // right column
-        for (int j = 0; j < n; j++) dfs(m-1, j, atlantic); // bottom row
+        // Right (Atlantic)
+        for (int r = 0; r < col_len; ++r) enqueue_if_new(r, row_len - 1, 2);
 
-        // Collect intersection cells
-        vector<vector<int>> result;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (pacific[i][j] && atlantic[i][j])
-                    result.push_back({i, j});
+        // Bottom (Atlantic)  <-- burası sendeki hataydı
+        for (int c = 0; c < row_len; ++c) enqueue_if_new(col_len - 1, c, 2);
+
+        while (!next_cell.empty()) {
+            auto [row, col, ocean_from] = next_cell.front();
+            next_cell.pop();
+
+            for (auto [dx, dy] : all_directions) {
+                int nr = row + dx, nc = col + dy;
+                if (!is_valid(nr, nc, heights)) continue;
+
+                // Okyanattan içeri doğru "tırmanıyoruz": komşu >= mevcut olmalı
+                if (heights[nr][nc] >= heights[row][col]) {
+                    if (!is_visited(nr, nc, ocean_from, visited)) { // bu okyanat için ziyaret edilmemişse
+                        visited[nr][nc] |= ocean_from;               // <-- komşuyu işaretle
+                        next_cell.emplace(nr, nc, ocean_from);
+                    }
+                }
             }
         }
 
+        vector<vector<int>> result;
+        for (int r = 0; r < col_len; ++r)
+            for (int c = 0; c < row_len; ++c)
+                if (visited[r][c] == 3)
+                    result.push_back({r, c});
+
         return result;
     }
+
+private:
+    bool is_valid(int row, int col, const vector<vector<int>>& heights) {
+        return row >= 0 && col >= 0 && row < (int)heights.size() && col < (int)heights[0].size();
+    }
+
+    // Bu fonksiyonu "bitmask" mantığına göre düzelttim
+    bool is_visited(int row, int col, int from_ocean, const vector<vector<int>>& visited) {
+        return (visited[row][col] & from_ocean) != 0;
+    }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,23 +1,29 @@
 class Solution {
 public:
-    int findLHS(vector<int>& nums) {
-        unordered_map<int, int> freq;
-
-        // Step 1: Count frequency of each number
-        for (int num : nums) {
-            freq[num]++;
-        }
-
-        int maxLen = 0;
-
-        // Step 2: Check each number if (num + 1) exists
-        for (auto& pair : freq) {
-            int num = pair.first;
-            if (freq.find(num + 1) != freq.end()) {
-                maxLen = max(maxLen, pair.second + freq[num + 1]);
+    int findLHS(vector<int>& arr) {
+        int max_count = 0 ,  count = 0  ;
+        int l = 0 , r = 0 ;
+        int n = arr.size() ;
+        sort( arr.begin() , arr.end() ) ;
+        while ( r < n  ) {
+            int min = arr[l] ;
+            
+            if ( abs( arr[r] - min ) == 1 ) {
+                count = r - l + 1 ;
+                if ( count > max_count ) {
+                    max_count = count ;
+                }
+                r++ ;
+            }
+            else if ( abs( arr[r]  - min ) > 1 ) {
+                while ( abs( arr[r] - arr[l] ) > 1 ) {
+                    l++ ;
+                }
+            }
+            else {
+                r++ ;
             }
         }
-
-        return maxLen;
+        return max_count ;
     }
 };

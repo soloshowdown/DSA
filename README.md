@@ -72,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |

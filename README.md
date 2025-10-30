@@ -57,6 +57,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |

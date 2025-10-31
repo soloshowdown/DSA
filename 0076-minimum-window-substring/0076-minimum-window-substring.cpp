@@ -1,45 +1,74 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (t.size() > s.size()) return "";
+        if (s.size() < t.size()) {
+            return "";
+        } 
 
-        unordered_map<char, int> need, window;
-        for (char c : t) need[c]++;
-
-        int have = 0, required = need.size();
-        int left = 0, right = 0;
-        int minLen = INT_MAX, start = 0;
-
-        while (right < s.size()) {
-            char c = s[right];
-            window[c]++;
-
-            // Check if we satisfied one character requirement
-            if (need.count(c) && window[c] == need[c])
-                have++;
-
-            // When all chars are satisfied, try to shrink window
-            while (have == required) {
-                // Update minimum window
-                if ((right - left + 1) < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
-                }
-
-                // Try to shrink from the left
-                char leftChar = s[left];
-                window[leftChar]--;
-                if (need.count(leftChar) && window[leftChar] < need[leftChar])
-                    have--;
-                left++;
-            }
-
-            right++;
+        vector<int> target(256, 0);
+        for (int i = 0; i < t.size(); ++i) {
+            target[t[i]] = target[t[i]] + 1;
         }
 
-        return minLen == INT_MAX ? "" : s.substr(start, minLen);
+
+        int left = 0, right = 0;
+        vector<int> recordTimes(256, 0); 
+        int remain = t.size();
+
+        string res = "";
+        int minLen = s.size() + 1;
+
+        while (right < s.size()) {
+            while (remain > 0 && right < s.size()) {
+                auto charRight = s[right];
+                if (target[charRight] > 0) { 
+                    recordTimes[charRight] += 1; 
+                    if (recordTimes[charRight] <= target[charRight]) {
+                        remain -= 1;
+                    }
+                    
+                    while (target[s[left]] == 0 || 
+                        (recordTimes[s[left]]) > target[s[left]]) {
+                        if (recordTimes[s[left]] > 0) {
+                            recordTimes[s[left]] -= 1; 
+                        }
+                        ++left;
+                    }
+                }
+                ++right;
+            }
+
+            if (remain != 0) {
+                break;
+            }
+
+            if (right - left < minLen) {
+                minLen = right - left;
+                res = s.substr(left, minLen);
+            }
+
+            while (remain <= 0 && left < right && left < s.size()) {
+                auto leftChar = s[left];
+                if (target[leftChar] > 0) {
+                    recordTimes[leftChar] -= 1;
+
+                    if (recordTimes[leftChar] < target[leftChar]) {
+                        ++left;
+                        while(left < s.size() && (target[s[left]] == 0 || recordTimes[s[left]] > target[s[left]])) {
+                            if (target[s[left]] > 0) {
+                                recordTimes[s[left]] -= 1;
+                            }
+                            ++left;
+                        }
+                        remain = 1;
+                        break;
+                    }
+                }
+
+                ++left;
+            }
+        }
+
+        return res;
     }
 };

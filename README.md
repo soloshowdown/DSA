@@ -70,6 +70,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soloshowdown/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/soloshowdown/DSA/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/soloshowdown/DSA/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/soloshowdown/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
@@ -96,6 +97,7 @@
 | [0012-integer-to-roman](https://github.com/soloshowdown/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soloshowdown/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soloshowdown/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/soloshowdown/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/soloshowdown/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soloshowdown/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soloshowdown/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soloshowdown/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/soloshowdown/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/soloshowdown/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/soloshowdown/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |

@@ -60,6 +60,7 @@
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soloshowdown/DSA/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/soloshowdown/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,4 +237,5 @@
 | ------- |
 | [0136-single-number](https://github.com/soloshowdown/DSA/tree/master/0136-single-number) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->

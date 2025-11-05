@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int longestAlternatingSubarray(vector<int>& nums, int threshold) {
-        int maxLen = 0;
-        int currLen = 0;
+    int longestAlternatingSubarray(const vector<int>& nums, int threshold) const {
+        size_t longest = 0;
+        int parity = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-
-            if (nums[i] % 2 == 0 && nums[i] <= threshold) {
-                currLen = 1;
-
-                // Check alternation from next elements
-                int j = i + 1;
-                while (j < nums.size() && nums[j] <= threshold && nums[j] % 2 != nums[j - 1] % 2) {
-                    currLen++;
-                    j++;
+        for (size_t i = 0, j = 0; j < nums.size(); ++j) {
+            if (nums[j] <= threshold) {
+                if ((nums[j] % 2) == parity) {
+                    longest = max(longest, j + 1 - i);
+                    parity ^= 1;
+                } else {
+                    i = j + (nums[j] % 2);
                 }
-
-                maxLen = max(maxLen, currLen);
+            } else {
+                i = j + 1;
+                parity = 0;
             }
         }
 
-        return maxLen;
+        return static_cast<int>(longest);
     }
 };

@@ -1,24 +1,29 @@
 class Solution {
 public:
     int countKConstraintSubstrings(string s, int k) {
-        int l = 0, r = 0;
-        int one = 0, zero = 0;
-        int ans = 0;
+        
+        int n = s.length();
 
-        while (r < s.size()) {
-            if (s[r] == '0') zero++;
-            else one++;
-            
-            while (zero > k && one > k) { // Both exceed k, so we need to shrink the window
-                if (s[l] == '0') zero--;
-                else one--;
-                l++;
+        int count = 0;
+
+        int left = 0;
+
+        vector<int> a(2,0);
+
+        for(int right = 0;right<n;right++){
+
+            a[s[right]-'0']++;
+
+            while(a[0]>k && a[1]>k){
+                a[s[left]-'0']--;
+                left++;
             }
+            count+= right-left+1;
 
-            ans += (r - l + 1); // All substrings ending at r and starting from l to r are valid
-            r++;
         }
 
-        return ans;
+        return count;
+
+
     }
 };

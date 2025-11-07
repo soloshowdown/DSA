@@ -83,6 +83,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/soloshowdown/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/soloshowdown/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/soloshowdown/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/soloshowdown/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/soloshowdown/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/soloshowdown/DSA/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/soloshowdown/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Divide and Conquer
 |  |
 | ------- |

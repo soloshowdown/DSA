@@ -64,6 +64,7 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/soloshowdown/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/soloshowdown/DSA/tree/master/3463-alternating-groups-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [3463-alternating-groups-i](https://github.com/soloshowdown/DSA/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/soloshowdown/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soloshowdown/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/soloshowdown/DSA/tree/master/0238-product-of-array-except-self) |
+| [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |

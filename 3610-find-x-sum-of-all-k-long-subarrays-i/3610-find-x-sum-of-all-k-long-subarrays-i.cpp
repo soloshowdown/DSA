@@ -1,35 +1,50 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
-        int n = nums.size();
+       int n = nums.size();
+      // int size = n-k+1;
         vector<int> ans;
-
-        for (int i = 0; i <= n - k; i++) {
-            vector<int> sub(nums.begin() + i, nums.begin() + i + k);
-            unordered_map<int, int> freq;
-            for (int num : sub) {
-                freq[num]++;
-            }
-            vector<pair<int, int>> items(freq.begin(), freq.end());
-            sort(items.begin(), items.end(), [](auto &a, auto &b) {
-                if (a.second == b.second) return a.first > b.first;
-                return a.second > b.second;
-            });
-            unordered_set<int> top_x;
-            for (int j = 0; j < items.size() && j < x; j++) {
-                top_x.insert(items[j].first);
-            }
-            int x_sum = 0;
-            for (int num : sub) {
-                if (top_x.count(num)) x_sum += num;
-            }
-
-            ans.push_back(x_sum);
+        int cnt =0;
+        unordered_map<int,int> map ;
+        int ind =0;
+        for(int i=0;i<n;i++){
+        while(i<n && cnt!=k){
+            map[nums[i]]++;
+            //cout<<nums[i]<<" cnt : "<<map[nums[i]]<<endl;
+            i++;
+            cnt++;
         }
-
-        return ans;
+        // in hashmap it will store like this 1--> 2 
+        // now we will store in an hashmap       
+        //  int temp = map.size();
+        priority_queue<pair<int,int>> pq ;
+        for(auto &it : map){
+            int f = it.first;
+            int s = it.second ;
+            pq.push({s,f}); 
+        }
+        int temp=x;
+        int sum =0;
+        while( !pq.empty() && temp>0  ){
+            int fre = pq.top().first;
+            int ele =pq.top().second ;
+            sum+= (fre*ele);
+            pq.pop();
+            temp--;
+        }
+        ans.push_back(sum);
+       
+       map[nums[ind]]--;
+     //   cout<<"deletinf "<<nums[ind]<<"its cnt : "<<map[nums[ind]]<<endl;
+       cnt--;
+       if( map[nums[ind]]==0) {
+        map.erase(nums[ind]);
+       // cout<<"deleted elemnt "<<endl;
+       }
+       ind++;
+      // cout<<"the inde is : "<<ind<<endl;
+       i--;
+      }
+      return ans ;
     }
 };

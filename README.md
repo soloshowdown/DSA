@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [3463-alternating-groups-i](https://github.com/soloshowdown/DSA/tree/master/3463-alternating-groups-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/soloshowdown/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,4 +261,12 @@
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

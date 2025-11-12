@@ -58,6 +58,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -142,6 +143,7 @@
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
@@ -167,6 +169,7 @@
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
@@ -251,6 +255,7 @@
 | [0035-search-insert-position](https://github.com/soloshowdown/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soloshowdown/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/soloshowdown/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +279,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration
 |  |

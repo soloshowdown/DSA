@@ -1,29 +1,22 @@
 class Solution {
 public:
     double new21Game(int n, int k, int maxPts) {
-        if (k == 0 || n >= k - 1 + maxPts) return 1.0;
+        vector<double> dp(n+1,0);
 
-        vector<double> dp(maxPts, 0.0);
         dp[0] = 1.0;
-
-        double windowSum = 1.0, result = 0.0;
-
-        for (int i = 1; i <= n; i++) {
-            double prob = windowSum / maxPts;
-
-            if (i < k) {
-                windowSum += prob;
-            } else {
-                result += prob;
-            }
-
-            if (i >= maxPts) {
-                windowSum -= dp[i % maxPts];
-            }
-
-            dp[i % maxPts] = prob;
+        double sum = k>0?dp[0]:0;
+        for(int i=1;i<=n;i++)
+        {
+            dp[i] = sum/maxPts;
+            if(i<k)
+                sum += dp[i];
+            if(i-maxPts >= 0 && i-maxPts < k)
+                sum -= dp[i-maxPts];
         }
 
-        return result;
+        double ans = 0;
+        for(int i=k;i<=n;i++)
+            ans += dp[i];
+        return ans;
     }
 };

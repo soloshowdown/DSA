@@ -64,6 +64,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/soloshowdown/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -116,6 +117,7 @@
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/soloshowdown/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/soloshowdown/DSA/tree/master/0867-new-21-game) |
+| [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0867-new-21-game](https://github.com/soloshowdown/DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |

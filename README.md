@@ -93,6 +93,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -138,6 +139,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -212,6 +214,7 @@
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
@@ -294,6 +297,7 @@
 | ------- |
 | [0136-single-number](https://github.com/soloshowdown/DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/soloshowdown/DSA/tree/master/0187-repeated-dna-sequences) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/soloshowdown/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |

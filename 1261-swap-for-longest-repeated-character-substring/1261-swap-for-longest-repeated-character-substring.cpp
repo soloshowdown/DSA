@@ -1,28 +1,27 @@
 class Solution {
-public:
-    int maxRepOpt1(string text) 
-    {
-        int ans=0, hash[26] = {0};
-        for(char ch: text) ++hash[ch-'a'];
+ public:
+  int maxRepOpt1(string text) {
+    int ans = 0;
+    vector<int> count(26);
+    vector<pair<char, int>> groups{{text[0], 1}};
 
-        for(char ch='a'; ch<='z'; ch++)
-        {
-            int curr=0, other=0, l=0;
-            for(int r=0; r<text.size(); r++)
-            {
-                if(text[r] == ch) ++curr;
-                else ++other;
+    for (const char c : text)
+      ++count[c - 'a'];
 
-                while(l<=r and other > 1)
-                {
-                    if(text[l++] == ch) --curr;
-                    else --other;
-                }
+    for (int i = 1; i < text.length(); ++i)
+      if (text[i] == text[i - 1])
+        ++groups[groups.size() - 1].second;
+      else
+        groups.emplace_back(text[i], 1);
 
-                ans = max(ans, min(curr + other, hash[ch-'a']));
-            }
-        }
+    for (const auto& [c, length] : groups)
+      ans = max(ans, min(length + 1, count[c - 'a']));
 
-        return ans;
-    }
+    for (int i = 1; i + 1 < groups.size(); ++i)
+      if (groups[i - 1].first == groups[i + 1].first && groups[i].second == 1)
+        ans = max(ans, min(groups[i - 1].second + groups[i + 1].second + 1,
+                           count[groups[i - 1].first - 'a']));
+
+    return ans;
+  }
 };

@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0867-new-21-game](https://github.com/soloshowdown/DSA/tree/master/0867-new-21-game) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Recursion
@@ -66,6 +67,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/soloshowdown/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -159,6 +161,7 @@
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
@@ -218,6 +221,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/soloshowdown/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |

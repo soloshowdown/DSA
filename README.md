@@ -97,6 +97,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/soloshowdown/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
@@ -224,6 +225,7 @@
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/soloshowdown/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/soloshowdown/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |

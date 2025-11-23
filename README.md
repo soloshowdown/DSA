@@ -16,6 +16,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0867-new-21-game](https://github.com/soloshowdown/DSA/tree/master/0867-new-21-game) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/soloshowdown/DSA/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Recursion
@@ -68,6 +69,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/soloshowdown/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/soloshowdown/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/soloshowdown/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -146,6 +148,7 @@
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -226,6 +229,7 @@
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/soloshowdown/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/soloshowdown/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
@@ -266,6 +270,7 @@
 | [0238-product-of-array-except-self](https://github.com/soloshowdown/DSA/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/soloshowdown/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3644-minimum-positive-sum-subarray](https://github.com/soloshowdown/DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Stack
 |  |

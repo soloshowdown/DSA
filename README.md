@@ -102,6 +102,7 @@
 | [1234-replace-the-substring-for-balanced-string](https://github.com/soloshowdown/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/soloshowdown/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/soloshowdown/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -152,6 +153,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/soloshowdown/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/soloshowdown/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/soloshowdown/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -234,6 +236,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/soloshowdown/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/soloshowdown/DSA/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/soloshowdown/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/soloshowdown/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/soloshowdown/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/soloshowdown/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |

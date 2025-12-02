@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/soloshowdown/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/soloshowdown/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soloshowdown/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/soloshowdown/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/soloshowdown/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -35,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/soloshowdown/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soloshowdown/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/soloshowdown/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/soloshowdown/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/soloshowdown/DSA/tree/master/0066-plus-one) |
@@ -319,6 +321,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/soloshowdown/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bit Manipulation

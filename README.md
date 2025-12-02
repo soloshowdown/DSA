@@ -35,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/soloshowdown/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soloshowdown/DSA/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/soloshowdown/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/soloshowdown/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/soloshowdown/DSA/tree/master/0068-text-justification) |
@@ -296,6 +297,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/soloshowdown/DSA/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -317,6 +319,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bit Manipulation
 |  |

@@ -1,51 +1,53 @@
-#include <vector>
-
 class Solution {
 public:
-    void gameOfLife(std::vector<std::vector<int>>& board) {
-        int n = board.size();
-        int m = board[0].size();
+    void gameOfLife(vector<vector<int>>& board) {
+        int m = board.size();
+        int n = board[0].size();
 
-        // Directions for neighbors
-        std::vector<int> dx = {-1, -1, -1, 0, 0, 1, 1, 1};
-        std::vector<int> dy = {-1, 0, 1, -1, 1, -1, 0, 1};
+        // 8 directions
+        vector<vector<int>> dirs = {
+            {0,1}, {1,0}, {0,-1}, {-1,0},
+            {1,1}, {1,-1}, {-1,1}, {-1,-1}
+        };
 
-        // First pass: **Mark** temporary state changes
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
+        // Step 1: Traverse each cell and calculate next state
+        for(int r = 0; r < m; r++){
+            for(int c = 0; c < n; c++){
+                
                 int liveNeighbors = 0;
-                for (int d = 0; d < 8; ++d) {
-                    int ni = i + dx[d];
-                    int nj = j + dy[d];
-                    
-                    if (ni >= 0 && ni < n && nj >= 0 && nj < m) {
-                        // Check if neighbor was originally live
-                        if (board[ni][nj] == 1 || board[ni][nj] == 2) {
+
+                // Count live neighbors
+                for(auto &d : dirs){
+                    int nr = r + d[0];
+                    int nc = c + d[1];
+
+                    if(nr >= 0 && nr < m && nc >= 0 && nc < n){
+                        // If neighbor is currently live (1) or marked to die (-1)
+                        if(abs(board[nr][nc]) == 1){
                             liveNeighbors++;
                         }
                     }
                 }
-                
-                if (board[i][j] == 1) { // Current cell is live
-                    if (liveNeighbors < 2 || liveNeighbors > 3) {
-                        board[i][j] = 2; // live -> dead
-                    }
-                } else { // Current cell is dead
-                    if (liveNeighbors == 3) {
-                        board[i][j] = 3; // dead -> live
-                    }
+
+                // Rule 1 & 3: Change states using encoding
+                if(board[r][c] == 1) {
+                    // live → die
+                    if(liveNeighbors < 2 || liveNeighbors > 3)
+                        board[r][c] = -1;
+                }
+                else {
+                    // dead → live
+                    if(liveNeighbors == 3)
+                        board[r][c] = 2;
                 }
             }
         }
 
-        // Second pass: **Finalize** state changes
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
-                if (board[i][j] == 2) {
-                    board[i][j] = 0; // Finalize live -> dead
-                } else if (board[i][j] == 3) {
-                    board[i][j] = 1; // Finalize dead -> live
-                }
+        // Step 2: Convert encoded values to final state
+        for(int r = 0; r < m; r++){
+            for(int c = 0; c < n; c++){
+                if(board[r][c] == -1) board[r][c] = 0;
+                if(board[r][c] == 2) board[r][c] = 1;
             }
         }
     }

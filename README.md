@@ -65,6 +65,7 @@
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/soloshowdown/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/soloshowdown/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -158,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/soloshowdown/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soloshowdown/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -185,6 +187,7 @@
 | [0217-contains-duplicate](https://github.com/soloshowdown/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -212,6 +215,7 @@
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soloshowdown/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/soloshowdown/DSA/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
@@ -324,6 +328,7 @@
 | [0035-search-insert-position](https://github.com/soloshowdown/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soloshowdown/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/soloshowdown/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/soloshowdown/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/soloshowdown/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |

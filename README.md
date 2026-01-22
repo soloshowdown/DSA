@@ -71,6 +71,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/soloshowdown/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/soloshowdown/DSA/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/soloshowdown/DSA/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
@@ -326,6 +327,7 @@
 | [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/soloshowdown/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/soloshowdown/DSA/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/soloshowdown/DSA/tree/master/0495-teemo-attacking) |
 ## Binary Search
 |  |
 | ------- |

@@ -69,6 +69,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/soloshowdown/DSA/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soloshowdown/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soloshowdown/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/soloshowdown/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/soloshowdown/DSA/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/soloshowdown/DSA/tree/master/0495-teemo-attacking) |
@@ -165,6 +166,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soloshowdown/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |

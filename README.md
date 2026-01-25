@@ -73,6 +73,7 @@
 | [0455-assign-cookies](https://github.com/soloshowdown/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/soloshowdown/DSA/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/soloshowdown/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/soloshowdown/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
@@ -167,6 +168,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soloshowdown/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/soloshowdown/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/soloshowdown/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
@@ -315,10 +317,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/soloshowdown/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/soloshowdown/DSA/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |

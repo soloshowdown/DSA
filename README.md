@@ -38,6 +38,7 @@
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soloshowdown/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/soloshowdown/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/soloshowdown/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/soloshowdown/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/soloshowdown/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/soloshowdown/DSA/tree/master/0066-plus-one) |
@@ -139,6 +140,7 @@
 | [0005-longest-palindromic-substring](https://github.com/soloshowdown/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/soloshowdown/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soloshowdown/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/soloshowdown/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/soloshowdown/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/soloshowdown/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/soloshowdown/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -289,6 +291,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/soloshowdown/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soloshowdown/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |

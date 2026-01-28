@@ -113,6 +113,7 @@
 | [0076-minimum-window-substring](https://github.com/soloshowdown/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/soloshowdown/DSA/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/soloshowdown/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/soloshowdown/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/soloshowdown/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/soloshowdown/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -167,6 +168,7 @@
 | [0217-contains-duplicate](https://github.com/soloshowdown/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soloshowdown/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/soloshowdown/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soloshowdown/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/soloshowdown/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -197,6 +199,7 @@
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/soloshowdown/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/soloshowdown/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/soloshowdown/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/soloshowdown/DSA/tree/master/0455-assign-cookies) |

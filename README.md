@@ -76,6 +76,7 @@
 | [0495-teemo-attacking](https://github.com/soloshowdown/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/soloshowdown/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/soloshowdown/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/soloshowdown/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/soloshowdown/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
@@ -203,6 +204,7 @@
 | [0274-h-index](https://github.com/soloshowdown/DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soloshowdown/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/soloshowdown/DSA/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/soloshowdown/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/soloshowdown/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/soloshowdown/DSA/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -385,6 +387,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/soloshowdown/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/soloshowdown/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration

@@ -82,6 +82,7 @@
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/soloshowdown/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/soloshowdown/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/soloshowdown/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/soloshowdown/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/soloshowdown/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/soloshowdown/DSA/tree/master/1020-longest-turbulent-subarray) |
@@ -355,6 +356,7 @@
 | [0658-find-k-closest-elements](https://github.com/soloshowdown/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/soloshowdown/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/soloshowdown/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/soloshowdown/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |

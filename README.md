@@ -303,6 +303,7 @@
 | [0053-maximum-subarray](https://github.com/soloshowdown/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soloshowdown/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/soloshowdown/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/soloshowdown/DSA/tree/master/0190-reverse-bits) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 ## Counting Sort
 |  |
@@ -386,6 +387,7 @@
 | ------- |
 | [0136-single-number](https://github.com/soloshowdown/DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/soloshowdown/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/soloshowdown/DSA/tree/master/0190-reverse-bits) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/soloshowdown/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1873-longest-nice-substring](https://github.com/soloshowdown/DSA/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/soloshowdown/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
